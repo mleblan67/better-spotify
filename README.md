@@ -1,2 +1,2 @@
 # better-spotify
-Creating an improved song recommendation algorithm with Transformers (ML model not the robots)
+Creating an improved song recommendation algorithm with Transformers (ML model not the robots)!
